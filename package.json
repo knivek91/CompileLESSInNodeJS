@@ -1,0 +1,19 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "less": "^2.7.2",
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "knivek91\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D@knivek91",
+  "license": "MIT"
+}
